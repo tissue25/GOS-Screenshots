@@ -3,7 +3,7 @@ Screenshots of GrapheneOS. All screenshots are taken on the release 2025102300. 
 
 # Screenshots
 
-Home, Apps list, Private Space
+###Home, Apps list, Private Space
 <table>
   <tr>
     <td>
@@ -23,7 +23,7 @@ Home, Apps list, Private Space
   </tr>
 </table>
 
-App Store
+###App Store
 <table>
   <tr>
     <td>
@@ -35,7 +35,7 @@ App Store
   </tr>
 </table>
 
-App installation screen
+###App installation screen
 <table>
   <tr>
     <td>
@@ -44,7 +44,56 @@ App installation screen
   </tr>
 </table>
 
-# Usage model
+###Camera
+<table>
+  <tr>
+    <td>
+      <img alt="Camera-01" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Camera-01.png" width="300">
+    </td>
+    <td>
+      <img alt="Camera-02" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Camera-02.png" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Camera-More_Settings.png" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Camera-More_Settings.png" width="300">
+    </td>
+    <td>
+      <img alt="Camera-QR_Scan-01.png" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Camera-QR_Scan-01.png" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Camera-QR_Scan-02.png" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Camera-QR_Scan-02.png" width="300">
+    </td>
+    <td>
+      <img alt="Camera-QR_Scan-03.png" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Camera-QR_Scan-03.png" width="300">
+    </td>
+  </tr>
+</table>
+
+###Phone
+<table>
+  <tr>
+    <td>
+      <img alt="Phone" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Phone.png" width="300">
+    </td>
+    <td>
+      <img alt="Phone-Settings.png" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Phone-Settings.png" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Phone-Settings-Call_recording.png" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Phone-Settings-Call_recording.png" width="300">
+    </td>
+    <td>
+      <img alt="Phone_Call_screen.png" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Phone_Call_screen.png" width="300">
+    </td>
+  </tr>
+</table>
+
+
+# Use Case
 
 In this usage model the Sandboxed Google Play and Services is only installed inside the Private Space in the main profile. This approach is useful if you want Google sevices to run on your main profile only when you need it. You don't have to unnecessarily change between the user profiles. Also file sharing is more easier than running a separate user profile for Google services. 
 
