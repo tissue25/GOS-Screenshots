@@ -3,7 +3,7 @@ Screenshots of GrapheneOS. All screenshots are taken on the release 2025102300. 
 
 # Screenshots
 
-###Home, Apps list, Private Space
+### Home, Apps list, Private Space
 <table>
   <tr>
     <td>
@@ -23,7 +23,7 @@ Screenshots of GrapheneOS. All screenshots are taken on the release 2025102300. 
   </tr>
 </table>
 
-###App Store
+### App Store
 <table>
   <tr>
     <td>
@@ -35,7 +35,7 @@ Screenshots of GrapheneOS. All screenshots are taken on the release 2025102300. 
   </tr>
 </table>
 
-###App installation screen
+### App installation screen
 <table>
   <tr>
     <td>
@@ -44,7 +44,7 @@ Screenshots of GrapheneOS. All screenshots are taken on the release 2025102300. 
   </tr>
 </table>
 
-###Camera
+### Camera
 <table>
   <tr>
     <td>
@@ -72,7 +72,7 @@ Screenshots of GrapheneOS. All screenshots are taken on the release 2025102300. 
   </tr>
 </table>
 
-###Phone
+### Phone
 <table>
   <tr>
     <td>
