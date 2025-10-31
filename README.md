@@ -113,3 +113,41 @@ There are 14 default apps in GrapheneOS:
 - Phone
 - Settings
 - Vanadium
+- 
+
+# Quick GrapheneOS Setup
+
+This guide assumes that you have successfully installed GrapheneOS and finished the initial setup process.
+
+
+**1. Settings app**
+
+**Network & internet**
+- Private DNS: OFF (If you use VPN)
+
+**About phone**
+- Device name (Change if necessary)
+
+**Security & privacy**
+- Device unlock > Duress password (Setup if necessary)
+
+**Security & privacy > Exploit protection**
+- Auto reboot, USB-C port, Turn off Wifi/Bluetooth: (Change if necessary)
+- Memory tagging: Enabled
+- Native code debugging: Blocked
+- WebView JIT: Disabled
+- DCL via memory: Restricted
+- DCL via storage: Restricted
+- Secure app spawning: Enabled
+
+**2. Source for installing apps**
+- App Store > Accrescent
+- App Store > Google Play Store
+- APK (From internet, github, etc.)
+
+**3. Additional tips**
+- Aurora and F-Droid is not recommended.
+- Disabling pre-installed/default/system apps is unncessary.
+- Vanadium is security focused and does not protect you from browser fingerprinting.
+- Check updates/releases regulary. 
+- 6~8 digit PIN is enough; use 2FA if necessary.
