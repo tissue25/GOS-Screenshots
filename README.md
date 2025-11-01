@@ -92,6 +92,56 @@ Screenshots of GrapheneOS. All screenshots are taken on the release 2025102300. 
   </tr>
 </table>
 
+### Vanadium and App permissions 
+<table>
+  <tr>
+    <td>
+      <img alt="v1" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Vanadium.png" width="300">
+    </td>
+    <td>
+      <img alt="v2" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Vanadium-App_info.png" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="v3" src="https://github.com/tissue25/GOS-Screenshots/blob/main/Vanadium-App_info-App_permissions-01.png" width="300">
+    </td>
+    <td>
+      <img alt="v4" src="https://github.com/tissue25/GOS-Screenshots/blob/main/Vanadium-App_info-App_permissions-02.png" width="300">
+    </td>
+  </tr>
+</table>
+
+### Contacts Scopes
+<table>
+  <tr>
+    <td>
+      <img alt="c1" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Contacts_Scopes-01.png" width="300">
+    </td>
+    <td>
+      <img alt="c2" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Contacts_Scopes-02.png" width="300">
+    </td>
+    <td>
+      <img alt="c3" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Contacts_Scopes-03.png" width="300">
+    </td>
+  </tr>
+</table>
+
+### Storage Scopes
+<table>
+  <tr>
+    <td>
+      <img alt="s1" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Storage_Scopes-01.png" width="300">
+    </td>
+    <td>
+      <img alt="s2" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Storage_Scopes-02.png" width="300">
+    </td>
+    <td>
+      <img alt="s3" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Storage_Scopes-03.png" width="300">
+    </td>
+  </tr>
+</table>
+
 
 # Use Case
 
