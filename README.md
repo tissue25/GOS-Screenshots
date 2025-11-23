@@ -1,7 +1,9 @@
 # GOS-Screenshots
 
 Most of the screenshots has become outdated after the update 2025112100.
-However the main features and functions remain the same. 
+However it's only the UI that is changed. Main features and functions remain the same. 
+
+I highly condemn AOSP's design practice.
 
 ~~Screenshots of [GrapheneOS](https://github.com/GrapheneOS). All screenshots are taken on the release 2025102300. Some sections such as Duress password is missing because it prevents screenshots.~~
 
