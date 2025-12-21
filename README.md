@@ -21,7 +21,7 @@ Screenshots of [GrapheneOS](https://github.com/GrapheneOS). All screenshots are 
 
 | | | |
 |---|---|---|
-| <img src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/main/App_Store-01.png" width="320"><br>App_Store-01.png | <img src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/main/App_Store-02.png" width="320"><br>App_Store-02.png | <img src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/main/App_installation_screen.png" width="320"><br>App_installation_screen.png |
+| <img src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/main/App_Store-01.png" width="320"><br>App_Store-01.png | <img src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/main/App_Store-02.png" width="320"><br>App_Store-02.png | <img src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/main/App_installation_screen.png" width="320"><br>App_installation_screen.png | |
 
 ## Camera
 
