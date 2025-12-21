@@ -35,7 +35,7 @@ However, the necessity of setting up the 2-factor fingerprint unlock depends on 
 
 7. Setup the Second factor PIN.
 
-<src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Settings/Settings-Security_%26_privacy-Device_unlock-Fingerprint.png" width="300">
+<img src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Settings/Settings-Security_%26_privacy-Device_unlock-Fingerprint.png" width="300">
 
 
 Note that duress password can be used on the 2FF PIN screen too. 
