@@ -48,8 +48,9 @@ Note that duress password can be used on the 2FF PIN screen too.
 - BFU: Before-First-Unlock, an encrypted state after the device reboot.
 - AFU: After-First-Unlock.
 
-More details can be found here:
-https://discuss.grapheneos.org/d/18585-2-factor-fingerprint-unlock-feature-is-now-fully-implemented
-https://grapheneos.org/features#two-factor-fingerprint-unlock
+
+**More details can be found here:**
+- https://discuss.grapheneos.org/d/18585-2-factor-fingerprint-unlock-feature-is-now-fully-implemented
+- https://grapheneos.org/features#two-factor-fingerprint-unlock
 
 
