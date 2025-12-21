@@ -1,22 +1,18 @@
-# Settings — Image gallery
+## Settings App
 
-Below are categorized screenshots from the Settings folder. Simple tables are used to create small galleries for each category.
-
-## Settings 01 and 02
-
-| Settings 01 | Settings 02 |
+| | |
 |---|---|
 | ![Settings 01](Settings-01.png) | ![Settings 02](Settings-02.png) |
 
 ## Settings — Network & internet
 
-| Network & internet |
+| |
 |---|
 | ![Network & internet](Settings-Network_&_internet) |
 
 ## Settings — Wallpaper & style
 
-| Wallpaper 1 | Wallpaper 2 |
+| | |
 |---|---|
 | ![Wallpaper 01](Settings-Wallpaper_&_style-01.png) | ![Wallpaper 02](Settings-Wallpaper_&_style-02.png) |
 
@@ -35,7 +31,3 @@ Below are categorized screenshots from the Settings folder. Simple tables are us
 |---|---|---|
 | ![Location main](Settings-Location.png) | ![Location services](Settings-Location-Location_services.png) | ![Geocoder](Settings-Location-Location_services-Geocoder.png) |
 | ![Network location](Settings-Location-Location_services-Network_location.png) | ![PSDS](Settings-Location-PSDS.png) | ![SUPL](Settings-Location-SUPL.png) |
-
----
-
-Images are referenced relative to this README (they are in the same folder). If you want smaller thumbnails, I can add HTML sizing or link each thumbnail to the full-size image.
