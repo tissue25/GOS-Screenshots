@@ -10,3 +10,7 @@
 
 <img alt="H2" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Wallpapers/H2.png" width="300">
 
+<img alt="Gray" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Wallpapers/Gray.png" width="300">
+
+<img alt="RB" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Wallpapers/RB.png" width="300">
+
