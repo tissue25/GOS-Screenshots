@@ -1,5 +1,13 @@
 ### Custom GrapheneOS wallpapers.
 
+<img alt="Digital A" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Wallpapers/Digital A.png" width="300">
+
+<img alt="Digital B" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Wallpapers/Digital B.png" width="300">
+
+<img alt="Digital C" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Wallpapers/Digital C.png" width="300">
+
+<img alt="Digital D" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Wallpapers/Digital D.png" width="300">
+
 <img alt="BW" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Wallpapers/BW.png" width="300">
 
 <img alt="31" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Wallpapers/31.png" width="300">
@@ -13,4 +21,3 @@
 <img alt="Gray" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Wallpapers/Gray.png" width="300">
 
 <img alt="RB" src="https://raw.githubusercontent.com/tissue25/GOS-Screenshots/refs/heads/main/Wallpapers/RB.png" width="300">
-
